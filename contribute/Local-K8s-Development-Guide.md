@@ -492,7 +492,7 @@ A developer wants to work on an enhancement for the Central Ledger Admin API whi
 4. Same steps from section #B.5 to #B.9
 
 5. Confirm that Central Hub is hitting your local Central Ledger ADMIN API
-    - `curl http://central-ledger/admin/health`
+    - `curl http://central-ledger.local/admin/health`
         
              
         Expected curl command Output:
